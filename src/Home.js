@@ -24,7 +24,9 @@ function Home(){
         </div>
         <div className="Home-menu">
           <div className="Home-menu1"></div>
-          <div className="Home-menu2"></div>
+          <div className="Home-menu2">
+            <Link className={"Home-menu2"} to="/music"/>
+          </div>
           <div className="Home-menu3"></div>
           <div className="Home-menu4"></div>
         </div>
